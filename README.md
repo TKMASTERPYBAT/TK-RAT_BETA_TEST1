@@ -6,7 +6,7 @@ Change the code to connect to your IP and your port.
 
 
 
-For the server just type [nc -lp <Your Port>]
+For the server just type [nc -lp 'The Port You Want The RAT To Connect To'] 
 
 # Made By!
 Theo Kershaw. A 14 year old programmer, interested in hacking and pentesting!
